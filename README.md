@@ -16,6 +16,6 @@
 
 Apaixonado por tecnologia, com foco na transação para exercer o que mais sonhei em trabalhar.
 
-## Meus Contato
+## Meu Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andersondlz2009@gmail.com)
