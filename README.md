@@ -5,6 +5,7 @@
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/andersondlz/)
 
 ![Andersondlz GitHub stats](https://github-readme-stats.vercel.app/api?username=Andersondlz&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que atualmente estou estudando
 
