@@ -5,3 +5,9 @@
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.linkedin.com/in/anderson-da-luz/)
 
 ![Andersondlz GitHub stats](https://github-readme-stats.vercel.app/api?username=Andersondlz&show_icons=true&theme=radical)
+
+## Tecnologias que atualmente estou estudando
+
+<div style="display: "inline_block"><br/>
+  <img align="center" alt="html5" scr="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
+</div>
